@@ -1,2 +1,27 @@
 
 /* Your CSS Code here. */
+.calculator{
+	border: 2px solid black;
+	width:25%;
+}
+#input{
+	width:96%;
+}
+.oprator  mad{
+	width:23%
+}
+.mad, #multiply {
+	width:23%
+}
+.mad,#minus {
+	width:23%
+}
+.mad, #plus {
+	width:23%
+}
+#block00, #block0{
+	width:23%
+}
+#ans{
+	width:48%
+}
